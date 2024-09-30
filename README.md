@@ -9,7 +9,7 @@
 - Create actionable insights based on user behavior classification.
 
 ## Dataset
-The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset), providing 700 samples of mobile device usage data.
+The dataset was downloaded from [Kaggle] (https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset), providing 700 samples of mobile device usage data.
 
 ## Tools Used:
 - **Microsoft Excel**: Data analysis, pivot tables, and dashboard creation.
@@ -23,10 +23,9 @@ The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/valakho
 5. **iOS Battery Usage**: On average, iOS devices drain more battery (~1950 mAh) with **4.7 hours/day** of app usage.
 
 ## How to Use:
-1. Download the dataset from Kaggle.
-2. Open the Excel dashboard provided in this repository.
-3. Explore the insights and visualizations to understand mobile usage patterns.
+1. Open the Excel dashboard provided in this repository.
+2. Explore the insights and visualizations to understand mobile usage patterns.
 
 ## Contact:
-Feel free to reach out if you have any questions or feedback! Connect with me on [LinkedIn](www.linkedin.com/in/ishitasingh3299).
+Feel free to reach out if you have any questions or feedback! Connect with me on [LinkedIn] (www.linkedin.com/in/ishitasingh3299).
 
